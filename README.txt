@@ -1,4 +1,4 @@
-1. Morgenstern Emma  p2110244
+1. Emm4
 
 2. objectif de l'application et comment l'utiliser (touches, but de l'app, etc.) :
 
